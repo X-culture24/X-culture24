@@ -1,8 +1,8 @@
-# 💫 About Me:
-🚀 DevOps Engineer and Backend Developer focused on building scalable and reliable systems<br>⚙️ Skilled in CI/CD, GitHub Actions, Kubernetes, Microservices, and Infrastructure as Code (Terraform)<br>📦 Strong experience in application deployment, automation, and system optimization<br>🐹 Primarily a Golang (Go) Backend Developer building secure and efficient APIs<br>🗄️ Experienced in PostgreSQL database design and API testing using Postman<br>🟢 Skilled in Node.js and TypeScript for backend development<br>🎨 Frontend experience with HTML, CSS, JavaScript, React, and TypeScript<br>🌐 Web developer specializing in static and dynamic business websites<br>🏫 Built systems for real-world business solutions including:<br>  🏫 School Management Systems<br>  🛒 E-commerce Platforms<br>  🗳️ Election Systems<br>  🏥 Hospital Systems<br>  🍽️ Restaurant Systems<br>📱 Also experienced in Mobile App Development<br>💡 Passionate about solving real-world business problems through technology and automation
+# About Me:
+ DevOps Engineer and Backend Developer focused on building scalable and reliable systems<br>Skilled in CI/CD, GitHub Actions, Kubernetes, Microservices, and Infrastructure as Code (Terraform)<br> Strong experience in application deployment, automation, and system optimization<br>Primarily a Golang (Go) Backend Developer building secure and efficient APIs<br> Experienced in PostgreSQL database design and API testing using Postman<br> Skilled in Node.js and TypeScript for backend development<br> Frontend experience with HTML, CSS, JavaScript, React, and TypeScript<br>Web developer specializing in static and dynamic business websites<br> Built systems for real-world business solutions including:<br>  School Management Systems<br>  🛒 E-commerce Platforms<br>   Election Systems<br>  Hospital Systems<br>   Restaurant Systems<br>📱 Also experienced in Mobile App Development<br> Passionate about solving real-world business problems through technology and automation
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.a.w.r.e.n.c.e_ke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lawrence-imani-719532346/) 
 
 # 💻 Tech Stack:
